@@ -1,0 +1,5 @@
+/Users/davidchanyoufee/Programming Projects/Visual Studio Projects/AnimalCategoriser/AnimalCategoriser/bin/Debug/AnimalCategoriser.exe
+/Users/davidchanyoufee/Programming Projects/Visual Studio Projects/AnimalCategoriser/AnimalCategoriser/bin/Debug/AnimalCategoriser.pdb
+/Users/davidchanyoufee/Programming Projects/Visual Studio Projects/AnimalCategoriser/AnimalCategoriser/obj/Debug/AnimalCategoriser.csprojAssemblyReference.cache
+/Users/davidchanyoufee/Programming Projects/Visual Studio Projects/AnimalCategoriser/AnimalCategoriser/obj/Debug/AnimalCategoriser.exe
+/Users/davidchanyoufee/Programming Projects/Visual Studio Projects/AnimalCategoriser/AnimalCategoriser/obj/Debug/AnimalCategoriser.pdb
